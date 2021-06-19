@@ -14,8 +14,8 @@
  * ESP32    tuyaWifi
  * 3.3      3.3
  * gnd      gnd
- * tx       tx
- * rx       rx//很奇怪。。。这个位置竟然不是交叉线。。。
+ * tx       Rx
+ * rx       Tx//很奇怪 live mini esp32这个位置竟然不是交叉线。ESP32模块却是交叉线~
  * 
  */
 
