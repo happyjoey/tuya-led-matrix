@@ -78,7 +78,7 @@ unsigned char dp_array[][2] =
   {DPID_BRIGHT, DP_TYPE_VALUE},
 };
 
-unsigned char pid[] = {"nwe6qdbzdq0l8ekp"};//炫彩灯带对应的项目PID
+unsigned char pid[] = {"nwe6q********"};//炫彩灯带对应的项目PID
 unsigned char mcu_ver[] = {"1.0.0"};       //后续OTA功能可能会用到的版本号
 
 //LedMatrix相关
